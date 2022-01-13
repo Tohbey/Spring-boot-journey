@@ -1,8 +1,7 @@
-package Repository;
+package com.springjpa.demo.Repository;
 
-import Model.Book;
+import com.springjpa.demo.Model.Book;
 import org.springframework.data.repository.CrudRepository;
-import org.springframework.stereotype.Repository;
 
 
 public interface BookRepository extends CrudRepository<Book, Long> {
