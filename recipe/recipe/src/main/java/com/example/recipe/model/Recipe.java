@@ -13,7 +13,6 @@ public class Recipe {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
     @Lob
     private String description;
     private Integer prepTime;

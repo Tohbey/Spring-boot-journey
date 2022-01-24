@@ -8,7 +8,7 @@ import java.util.Set;
 
 @Entity
 @Data
-@EqualsAndHashCode(exclude = {"recipes"})
+@EqualsAndHashCode(exclude = {"recipe"})
 public class Category {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
