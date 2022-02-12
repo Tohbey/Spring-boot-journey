@@ -2,10 +2,10 @@ package com.example.recipe.model;
 
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 
 
-class CategoryTest {
+public class CategoryTest {
     Category category;
 
     @Before
@@ -19,7 +19,7 @@ class CategoryTest {
 
         category.setId(idValue);
 
-        Assertions.assertEquals(idValue, category.getId());
+        assertEquals(idValue, category.getId());
     }
 
     @Test
