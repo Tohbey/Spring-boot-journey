@@ -39,6 +39,7 @@ public class IndexControllerTest {
     //testing MVC controller
     @Test
     public void testMockMVC() throws Exception {
+        //standaloneSetup helps to keep our test running nice and fast
         MockMvc mockMvc = MockMvcBuilders.standaloneSetup(controller).build();
 
         mockMvc.perform(get("/"))
@@ -48,6 +49,7 @@ public class IndexControllerTest {
 
     @Test
     public void getIndexPage() throws Exception{
+        //given
         Set<Recipe> recipes = new HashSet<>();
         recipes.add(new Recipe());
 
@@ -58,6 +60,7 @@ public class IndexControllerTest {
 
         when(recipeService.getRecipes()).thenReturn(recipes);
 
+        //it creates an argument captor for the set
         ArgumentCaptor<Set<Recipe>> argumentCaptor = ArgumentCaptor.forClass(Set.class);
 
         //when
