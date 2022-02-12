@@ -2,8 +2,8 @@ package com.example.recipe.model;
 
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
-import static org.junit.Assert.assertEquals;
 
 class CategoryTest {
     Category category;
@@ -19,7 +19,7 @@ class CategoryTest {
 
         category.setId(idValue);
 
-        assertEquals(idValue, category.getId());
+        Assertions.assertEquals(idValue, category.getId());
     }
 
     @Test
