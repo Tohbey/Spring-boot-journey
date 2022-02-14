@@ -1,9 +1,12 @@
 package com.example.recipe.commands;
 
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 public class NotesCommand {
     private Long id;

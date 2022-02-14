@@ -1,11 +1,14 @@
 package com.example.recipe.commands;
 
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.math.BigDecimal;
 
-@Data
+@Setter
+@Getter
 @NoArgsConstructor
 public class IngredientCommand {
     private Long id;

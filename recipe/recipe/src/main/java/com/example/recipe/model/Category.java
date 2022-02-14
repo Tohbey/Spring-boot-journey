@@ -2,12 +2,15 @@ package com.example.recipe.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
 
 import javax.persistence.*;
 import java.util.Set;
 
 @Entity
-@Data
+@Getter
+@Setter
 @EqualsAndHashCode(exclude = {"recipe"})
 public class Category {
     @Id

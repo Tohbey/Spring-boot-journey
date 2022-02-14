@@ -1,6 +1,8 @@
 package com.example.recipe.controller;
 
 import com.example.recipe.commands.IngredientCommand;
+import com.example.recipe.commands.RecipeCommand;
+import com.example.recipe.commands.UnitOfMeasureCommand;
 import com.example.recipe.service.IngredientService;
 import com.example.recipe.service.RecipeService;
 import com.example.recipe.service.UnitOfMeasureService;
@@ -60,4 +62,34 @@ public class IngredientController {
 
         return "redirect:/recipe/" + savedCommand.getRecipeId() + "/ingredient/" + savedCommand.getId() + "/show";
     }
+
+
+    @RequestMapping(value = "recipe/{recipeId}/ingredient/new", method = RequestMethod.GET)
+    public String newIngredient(@PathVariable String recipeId, Model model){
+
+        //make sure we have a good id value
+        RecipeCommand recipeCommand = recipeService.findCommandById(Long.valueOf(recipeId));
+        //todo raise exception if null
+
+        //need to return back parent id for hidden form property
+        IngredientCommand ingredientCommand = new IngredientCommand();
+        ingredientCommand.setRecipeId(Long.valueOf(recipeId));
+        model.addAttribute("ingredient", ingredientCommand);
+
+        //init uom
+        ingredientCommand.setUom(new UnitOfMeasureCommand());
+
+        model.addAttribute("uomList",  unitOfMeasureService.listAllUoms());
+
+        return "recipe/ingredient/ingredientform";
+    }
+
+    @RequestMapping(value = "recipe/{recipeId}/ingredient/{ingredientId}/delete", method = RequestMethod.GET)
+    public String deleteIngredient(@PathVariable String recipeId, @PathVariable String ingredientId){
+        log.debug("Deleting id: "+ingredientId);
+
+        ingredientService.deleteIngredient(Long.valueOf(recipeId), Long.valueOf(ingredientId));
+        return "redirect:/recipe/" + recipeId + "/ingredients";
+    }
+
 }
