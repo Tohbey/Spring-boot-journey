@@ -53,7 +53,7 @@ public class IngredientServiceImplTest {
     }
 
     @Test
-    public void findByRecipeIdAndIngredientId() throws Exception{
+    public void findByRecipeIdAndIngredientId() throws Exception {
         //given
         Recipe recipe = new Recipe();
         recipe.setId(1L);

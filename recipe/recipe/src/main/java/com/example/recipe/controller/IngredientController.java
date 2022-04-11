@@ -28,7 +28,7 @@ public class IngredientController {
     }
 
     @RequestMapping(value = "/recipe/{recipeId}/ingredients", method = RequestMethod.GET)
-    public String listIngredients(@PathVariable String recipeId, Model model){
+    public String listIngredients(@PathVariable String recipeId, Model model) {
         log.debug("Getting ingredient list for recipe id: " + recipeId);
 
         // use command object to avoid lazy load errors in Thymeleaf.
@@ -39,14 +39,14 @@ public class IngredientController {
 
     @RequestMapping(value = "recipe/{recipeId}/ingredient/{id}/show", method = RequestMethod.GET)
     public String showRecipeIngredient(@PathVariable String recipeId,
-                                       @PathVariable String id, Model model){
+                                       @PathVariable String id, Model model) {
         model.addAttribute("ingredient", ingredientService.findByRecipeIdAndIngredientId(Long.valueOf(recipeId), Long.valueOf(id)));
         return "recipe/ingredient/show";
     }
 
     @RequestMapping(value = "recipe/{recipeId}/ingredient/{id}/update", method = RequestMethod.GET)
     public String updateRecipeIngredient(@PathVariable String recipeId,
-                                         @PathVariable String id, Model model){
+                                         @PathVariable String id, Model model) {
         model.addAttribute("ingredient", ingredientService.findByRecipeIdAndIngredientId(Long.valueOf(recipeId), Long.valueOf(id)));
 
         model.addAttribute("uomList", unitOfMeasureService.listAllUoms());
@@ -54,7 +54,7 @@ public class IngredientController {
     }
 
     @RequestMapping(value = "recipe/{recipeId}/ingredient", method = RequestMethod.POST)
-    public String saveOrUpdate(@ModelAttribute IngredientCommand command){
+    public String saveOrUpdate(@ModelAttribute IngredientCommand command) {
         IngredientCommand savedCommand = ingredientService.saveIngredientCommand(command);
 
         log.debug("saved receipe id:" + savedCommand.getRecipeId());
@@ -65,7 +65,7 @@ public class IngredientController {
 
 
     @RequestMapping(value = "recipe/{recipeId}/ingredient/new", method = RequestMethod.GET)
-    public String newIngredient(@PathVariable String recipeId, Model model){
+    public String newIngredient(@PathVariable String recipeId, Model model) {
 
         //make sure we have a good id value
         RecipeCommand recipeCommand = recipeService.findCommandById(Long.valueOf(recipeId));
@@ -79,14 +79,14 @@ public class IngredientController {
         //init uom
         ingredientCommand.setUom(new UnitOfMeasureCommand());
 
-        model.addAttribute("uomList",  unitOfMeasureService.listAllUoms());
+        model.addAttribute("uomList", unitOfMeasureService.listAllUoms());
 
         return "recipe/ingredient/ingredientform";
     }
 
     @RequestMapping(value = "recipe/{recipeId}/ingredient/{ingredientId}/delete", method = RequestMethod.GET)
-    public String deleteIngredient(@PathVariable String recipeId, @PathVariable String ingredientId){
-        log.debug("Deleting id: "+ingredientId);
+    public String deleteIngredient(@PathVariable String recipeId, @PathVariable String ingredientId) {
+        log.debug("Deleting id: " + ingredientId);
 
         ingredientService.deleteIngredient(Long.valueOf(recipeId), Long.valueOf(ingredientId));
         return "redirect:/recipe/" + recipeId + "/ingredients";

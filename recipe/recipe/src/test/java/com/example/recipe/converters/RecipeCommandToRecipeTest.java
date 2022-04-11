@@ -8,6 +8,7 @@ import com.example.recipe.model.Difficulty;
 import com.example.recipe.model.Recipe;
 import org.junit.Before;
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class RecipeCommandToRecipeTest {
@@ -85,7 +86,7 @@ public class RecipeCommandToRecipeTest {
         recipeCommand.getIngredients().add(ingredient2);
 
         //when
-        Recipe recipe  = converter.convert(recipeCommand);
+        Recipe recipe = converter.convert(recipeCommand);
 
         assertNotNull(recipe);
         assertEquals(RECIPE_ID, recipe.getId());

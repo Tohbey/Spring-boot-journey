@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 @Service
-public class UnitOfMeasureServiceImpl implements  UnitOfMeasureService{
+public class UnitOfMeasureServiceImpl implements UnitOfMeasureService {
 
     private final UnitOfMeasureRepository unitOfMeasureRepository;
     private final UnitOfMeasureToUnitOfMeasureCommand unitOfMeasureToUnitOfMeasureCommand;

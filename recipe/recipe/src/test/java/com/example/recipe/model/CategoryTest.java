@@ -2,6 +2,7 @@ package com.example.recipe.model;
 
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.Assert.assertEquals;
 
 
@@ -9,7 +10,7 @@ public class CategoryTest {
     Category category;
 
     @Before
-    public void setUp(){
+    public void setUp() {
         category = new Category();
     }
 

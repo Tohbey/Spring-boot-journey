@@ -4,6 +4,7 @@ import com.example.recipe.commands.NotesCommand;
 import com.example.recipe.model.Notes;
 import org.junit.Before;
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 

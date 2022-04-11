@@ -44,7 +44,7 @@ public class RecipeServiceImpl implements RecipeService {
 
         if (recipeOptional.isEmpty()) {
 //            throw new RuntimeException("Recipe Not Found!");
-            throw new NotFoundException("Recipe Not Found. For ID value: " + l.toString() );
+            throw new NotFoundException("Recipe Not Found. For ID value: " + l.toString());
         }
 
         return recipeOptional.get();
@@ -52,7 +52,7 @@ public class RecipeServiceImpl implements RecipeService {
 
     @Override
     @Transactional
-    public RecipeCommand saveRecipeCommand(RecipeCommand command){
+    public RecipeCommand saveRecipeCommand(RecipeCommand command) {
         Recipe detachedRecipe = recipeCommandToRecipe.convert(command);
 
         Recipe savedRecipe = recipeRepository.save(detachedRecipe);

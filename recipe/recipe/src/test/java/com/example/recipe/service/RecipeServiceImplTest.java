@@ -35,14 +35,14 @@ public class RecipeServiceImplTest {
     RecipeCommandToRecipe recipeCommandToRecipe;
 
     @Before
-    public void setUp() throws Exception{
+    public void setUp() throws Exception {
         MockitoAnnotations.initMocks(this); // initializing mock
 
         recipeService = new RecipeServiceImpl(recipeRepository, recipeCommandToRecipe, recipeToRecipeCommand);
     }
 
     @Test
-    public void getRecipes() throws  Exception{
+    public void getRecipes() throws Exception {
         Recipe recipe = new Recipe();
         HashSet<Recipe> recipeData = new HashSet<Recipe>();
         recipeData.add(recipe);

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f780ceab-557c-42d4-8627-89b9e4816bec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__guru_springframework_chuck_norris_for_actuator_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_115.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_ui_1_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_npm_bootstrap_3_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_npm_github_com_jquery_jquery_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_48.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring-boot-journey.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/Controller/JokeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/Controller/JokeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/JokeAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/JokeAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/Service/JokerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/src/main/java/com/example/demo/Service/JokerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/src/main/resources/templates/chucknorris.html" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/src/main/resources/templates/chucknorris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joke-app/demo/src/test/java/com/example/demo/JokeAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/joke-app/demo/src/test/java/com/example/demo/JokeAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Speciality.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Speciality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Visit.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Visit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/SpecialtyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/SpecialtyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/VetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/VisitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/VisitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/AbstractMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/OwnerMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/OwnerMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/VetMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/VetMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/VisitMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/service/map/VisitMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/PetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/PetClinicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/bootstrap/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/OwnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/VetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/java/com/example/petclinic/controller/VetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/header.less" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/header.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/petclinic.less" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/petclinic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/responsive.less" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/responsive.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/typography.less" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/less/typography.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/inputField.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/inputField.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/selectField.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/fragments/selectField.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/notimplemented.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/notimplemented.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/createOrUpdateOwnerForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/createOrUpdateOwnerForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/findOwners.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/findOwners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/ownerDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/ownerDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/ownersList.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/owners/ownersList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/pets/createOrUpdatePetForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/pets/createOrUpdatePetForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/pets/createOrUpdateVisitForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/pets/createOrUpdateVisitForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/wro/wro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/main/wro/wro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/test/java/petclinic/PetClinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/src/test/java/petclinic/PetClinicApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic/pet-clinic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic/pet-clinic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/RecipeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/RecipeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/bootstrap/RecipeBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/bootstrap/RecipeBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/ControllerExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/ControllerExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/IngredientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/IngredientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/RecipeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/controller/RecipeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/NotesCommandToNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/NotesCommandToNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/NotesToNotesCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/NotesToNotesCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/RecipeCommandToRecipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/RecipeCommandToRecipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/RecipeToRecipeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/RecipeToRecipeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/UnitOfMeasureCommandToUnitOfMeasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/UnitOfMeasureCommandToUnitOfMeasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/UnitOfMeasureToUnitOfMeasureCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/converters/UnitOfMeasureToUnitOfMeasureCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/exceptions/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/model/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/model/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/ImageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/ImageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/IngredientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/IngredientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/RecipeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/RecipeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/UnitOfMeasureServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/java/com/example/recipe/service/UnitOfMeasureServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/messages.properities.properties" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/messages.properities.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/imageuploadForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/imageuploadForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/ingredientForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/ingredientForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/ingredient/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/recipeForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/recipeForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/main/resources/templates/recipe/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/RecipeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/RecipeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/ImageControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/ImageControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/IndexControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/IndexControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/RecipeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/controller/RecipeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/NotesCommandToNotesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/NotesCommandToNotesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/NotesToNotesCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/NotesToNotesCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/RecipeCommandToRecipeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/RecipeCommandToRecipeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/RecipeToRecipeCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/RecipeToRecipeCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/UnitOfMeasureCommandToUnitOfMeasureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/converters/UnitOfMeasureCommandToUnitOfMeasureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/model/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/model/CategoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/repository/UnitOfMeasureRepositoryIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/repository/UnitOfMeasureRepositoryIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/service/IngredientServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/service/IngredientServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/service/RecipeServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/recipe/src/test/java/com/example/recipe/service/RecipeServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Controller/AuthorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Controller/AuthorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Model/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Model/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Repository/AuthorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/Repository/AuthorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/SpringJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/java/com/springjpa/demo/SpringJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-jpa/demo/src/test/java/com/springjpa/demo/SpringJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-jpa/demo/src/test/java/com/springjpa/demo/SpringJpaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26mmix5Zz1o2hCE1bf6UpzLDEMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-boot-journey" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-boot-journey" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f780ceab-557c-42d4-8627-89b9e4816bec" name="Changes" comment="" />
+      <created>1648037310642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648037310642</updated>
+      <workItem from="1648037338198" duration="223000" />
+      <workItem from="1648037677608" duration="21000" />
+      <workItem from="1648038340606" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

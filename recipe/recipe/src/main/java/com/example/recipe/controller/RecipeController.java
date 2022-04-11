@@ -21,26 +21,26 @@ public class RecipeController {
     }
 
     @RequestMapping("/recipe/{id}/show")
-    public String showById(@PathVariable String id, Model model){
+    public String showById(@PathVariable String id, Model model) {
         model.addAttribute("recipe", recipeService.findById(Long.valueOf(id)));
         return "recipe/show";
     }
 
     @RequestMapping("/recipe/new")
-    public String newRecipe(Model model){
+    public String newRecipe(Model model) {
         model.addAttribute("recipe", new RecipeCommand());
 
         return "recipe/recipeForm";
     }
 
     @RequestMapping("recipe/{id}/update")
-    public String updateRecipe(@PathVariable String id, Model model){
+    public String updateRecipe(@PathVariable String id, Model model) {
         model.addAttribute("recipe", recipeService.findCommandById(Long.valueOf(id)));
-        return  "recipe/recipeForm";
+        return "recipe/recipeForm";
     }
 
-    @RequestMapping(value="/recipe", method = RequestMethod.POST)
-    public String saveOrUpdate(@ModelAttribute RecipeCommand recipeCommand){
+    @RequestMapping(value = "/recipe", method = RequestMethod.POST)
+    public String saveOrUpdate(@ModelAttribute RecipeCommand recipeCommand) {
         RecipeCommand savedCommand = recipeService.saveRecipeCommand(recipeCommand);
 
         return "redirect:/recipe/" + savedCommand.getId() + "/show";
@@ -48,7 +48,7 @@ public class RecipeController {
 
 
     @RequestMapping(value = "recipe/{id}/delete", method = RequestMethod.GET)
-    public String deleteById(@PathVariable String id){
+    public String deleteById(@PathVariable String id) {
 
         log.debug("Deleting id: " + id);
 
@@ -58,7 +58,7 @@ public class RecipeController {
 
     @ResponseStatus(HttpStatus.NOT_FOUND)
     @ExceptionHandler(NotFoundException.class)
-    public ModelAndView handleNotFound(Exception exception){
+    public ModelAndView handleNotFound(Exception exception) {
 
         log.error("Handling not found exception");
         log.error(exception.getMessage());

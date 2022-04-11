@@ -4,6 +4,7 @@ import com.example.recipe.commands.RecipeCommand;
 import com.example.recipe.model.*;
 import org.junit.Before;
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class RecipeToRecipeCommandTest {

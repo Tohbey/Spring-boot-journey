@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/joke-app/demo/demo.iml" filepath="$PROJECT_DIR$/joke-app/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-jpa/demo/demo (1) (com.spring-jpa).iml" filepath="$PROJECT_DIR$/spring-jpa/demo/demo (1) (com.spring-jpa).iml" />
-      <module fileurl="file://$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic.iml" filepath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/pet-clinic-data.iml" filepath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-data/pet-clinic-data.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/pet-clinic-web.iml" filepath="$PROJECT_DIR$/pet-clinic/pet-clinic/pet-clinic-web/pet-clinic-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/recipe/recipe/recipe.iml" filepath="$PROJECT_DIR$/recipe/recipe/recipe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-journey.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jwt.iml" filepath="$PROJECT_DIR$/spring-security-jwt.iml" />
     </modules>
   </component>
 </project>

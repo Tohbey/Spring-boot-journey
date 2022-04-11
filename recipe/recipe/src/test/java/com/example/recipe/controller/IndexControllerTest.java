@@ -30,7 +30,7 @@ public class IndexControllerTest {
     IndexController controller;
 
     @Before
-    public void setUp() throws Exception{
+    public void setUp() throws Exception {
         MockitoAnnotations.initMocks(this);
 
         controller = new IndexController(recipeService);
@@ -48,7 +48,7 @@ public class IndexControllerTest {
     }
 
     @Test
-    public void getIndexPage() throws Exception{
+    public void getIndexPage() throws Exception {
         //given
         Set<Recipe> recipes = new HashSet<>();
         recipes.add(new Recipe());

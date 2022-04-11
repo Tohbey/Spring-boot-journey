@@ -11,10 +11,10 @@ import java.io.IOException;
 
 @Slf4j
 @Service
-public class ImageServiceImpl implements ImageService{
+public class ImageServiceImpl implements ImageService {
     private final RecipeRepository recipeRepository;
 
-    public ImageServiceImpl( RecipeRepository recipeService) {
+    public ImageServiceImpl(RecipeRepository recipeService) {
 
         this.recipeRepository = recipeService;
     }
@@ -30,7 +30,7 @@ public class ImageServiceImpl implements ImageService{
 
             int i = 0;
 
-            for (byte b : file.getBytes()){
+            for (byte b : file.getBytes()) {
                 byteObjects[i++] = b;
             }
 

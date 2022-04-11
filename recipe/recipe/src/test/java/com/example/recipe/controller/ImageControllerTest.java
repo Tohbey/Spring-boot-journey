@@ -82,7 +82,7 @@ public class ImageControllerTest {
 
         int i = 0;
 
-        for (byte primByte : s.getBytes()){
+        for (byte primByte : s.getBytes()) {
             bytesBoxed[i++] = primByte;
         }
 

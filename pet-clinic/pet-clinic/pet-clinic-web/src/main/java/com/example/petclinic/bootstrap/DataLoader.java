@@ -33,7 +33,7 @@ public class DataLoader implements CommandLineRunner {
 
         int count = petTypeService.findAll().size();
 
-        if (count == 0 ){
+        if (count == 0) {
             loadData();
         }
     }
@@ -104,7 +104,7 @@ public class DataLoader implements CommandLineRunner {
         vet1.setFirstName("Sam");
         vet1.setLastName("Axe");
         vet1.getSpecialities().add(savedRadiology);
- 
+
         vetService.save(vet1);
 
         Vet vet2 = new Vet();

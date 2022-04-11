@@ -21,7 +21,7 @@ public class UnitOfMeasureRepositoryIT {
     UnitOfMeasureRepository unitOfMeasureRepository;
 
     @Before
-    public void setup() throws Exception{
+    public void setup() throws Exception {
 
     }
 
